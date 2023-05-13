@@ -1,0 +1,93 @@
+
+.navbar-collapse 
+{
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-nav
+{
+    margin-right: 100px;
+}
+.link-verde 
+{
+    color: #29a744 !important;
+}
+.card-img-overlay
+{
+    padding-right: 136px !important;
+    padding-top: 20% !important;
+    padding-left: 48% !important;
+    height: max-content;
+}
+.card-img-overlay, .card-title1, .card-text1
+{
+ color: white;   
+}
+.ConoceOradores
+{
+    margin: 12px;
+    font-size: 14px;
+    text-align: center;
+}
+.contenedorOradores
+{
+    margin-top: 12px;
+    padding: 25px 260px;
+}
+.card-text
+{
+    font-size: 14px;
+}
+/*.orador
+{
+    margin-top: 25px;
+}*/
+.formulario-oradores
+{
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+}
+/*.formulario
+{
+    padding: 2px 510px 10px 510px;
+}*/
+.formulario
+{
+    padding-top: 5px;
+    margin: 0 auto;
+    width: 40%;
+}
+
+.form-label
+{
+    font-size: 12px;
+}
+.formulario button 
+{
+    font-size: 19px;
+    /*
+    text-align: center;
+    padding-left:310px;
+    padding-right:310px; */
+    width: 100%;
+    background-color: #96c93e;
+}
+footer
+{
+    padding-top: 15px;
+}
+.footer-lista
+{
+    background-image: linear-gradient(to right,#1c3643,#1d3947,#1c3c4b,#1d4c68,#1e465f,#1d5270); 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 96px;
+}
+.footer-link
+{
+    color: white !important;
+    font-size: 14px !important;
+    padding: 24px 40px !important;   
+}
